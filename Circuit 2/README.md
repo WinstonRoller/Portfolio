@@ -16,7 +16,7 @@ The first switch, Switch A, sends each bit to an adder. The first switch on Swit
 | 0 1 0        | 1   | 0	    |	
 | 0 1 1        | 0	 | 1	    |
 | 1 0 0	       | 1	 | 0      |
-| 1 0 1        | 0	 | 0      |
+| 1 0 1        | 0	 | 1      |
 | 1 1 0	       | 0   | 1      |
 | 1 1 1        | 1   | 1      |
 
