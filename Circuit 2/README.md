@@ -1,4 +1,4 @@
-# Circuit 3: 8-bit Adder-Subtracter 
+# Circuit 2: 8-bit Adder-Subtracter 
 ## Concept:
 There are 2 switches, 1 for each number. There is also a switch for the mode. When the switch is off, it adds the 2 numbers, and when it is on it subtracts B from A. 
 ## How it works:
