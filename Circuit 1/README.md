@@ -1,4 +1,4 @@
-# Circuit 2: Guess the Number
+# Circuit 1: Guess the Number
 ## Concept:
 A 2-player game, there is a switch on both sides of the board one player sets a number on their switch and when they are ready, they flip the last switch to start the game Both players have to flip their last switch for the game to start. If the guesser’s number is more or less the light will be red, and if it is correct the light will be green.
 ## How it works:
