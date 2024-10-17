@@ -6,7 +6,10 @@ For the game to start both players need to have the last switch on the DIP switc
 
 ## Images
 ### Schematic:
-[logo]: Circuit_1_Schematic.png
+![Circuit_1_Schematic](Circuit_1_Schematic.png)
+### Circuit 1 on the Breadboard
+![First Picture](Circuit_1_built_1.jpg)
+![Second Picture](Circuit_1_built_2.jpg)
 
 ## Comparator ON truth table:		  
 | A B |	P (Power) |	 
