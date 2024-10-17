@@ -35,7 +35,7 @@ C<sub>out</sub> = A * B<sub>F</sub>
 | 1 1   | 0    |
 
 ### Expression for B<sub>F</sub>: 
-BF = B<sub>I</sub>’M + B<sub>I</sub>M’ or BF = B<sub>I</sub> XOR M
+B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I</sub> XOR M
 
 ## Parts Used:
 ### 3: DIP Switch
