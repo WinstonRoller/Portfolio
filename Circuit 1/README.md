@@ -11,6 +11,8 @@ For the game to start both players need to have the last switch on the DIP switc
 ![First Picture](Circuit_1_built_1.jpg)
 ![Second Picture](Circuit_1_built_2.jpg)
 
+## Video Demonstration: https://www.youtube.com/watch?v=7WhWaa4iMa8
+
 ## Comparator ON truth table:		  
 | A B |	P (Power) |	 
 | :-: | :-------: |
