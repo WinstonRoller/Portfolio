@@ -44,4 +44,5 @@ BF = B<sub>I</sub>’M + B<sub>I</sub>M’ or BF = B<sub>I</sub> XOR M
 ### 25: 220 Ohm Resistors
 ### 8: Red LED
 
+***
 ### Simulation on TinkerCAD
