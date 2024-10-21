@@ -37,8 +37,7 @@ C<sub>out</sub> = A * B<sub>F</sub>
 ### Expression for B<sub>F</sub>: 
 B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I</sub> XOR M
 
-## Table for Overflow:
-## Table for Addition:		
+## Table for Overflow:	
 | A<sub>4</sub> B<sub>4</sub> ∑<sub>out</sub> | O |
 | :----------: | :-: |
 | 0 0 0	       | 0	 | 
