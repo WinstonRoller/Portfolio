@@ -58,6 +58,9 @@ O = ABC' + A'B'C
 ### 2: QUAD XOR gate
 ### 25: 220 Ohm Resistors
 ### 8: Red LED
+### 1 Quad OR gate
+### 1 Quad AND gate
+### 1 Hex Inverter
 
 ***
 ### Simulation on TinkerCAD
