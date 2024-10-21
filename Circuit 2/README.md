@@ -37,6 +37,22 @@ C<sub>out</sub> = A * B<sub>F</sub>
 ### Expression for B<sub>F</sub>: 
 B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I</sub> XOR M
 
+## Table for Overflow:
+## Table for Addition:		
+| A<sub>4</sub> B<sub>4</sub> ∑<sub>out</sub> | O |
+| :----------: | :-: |
+| 0 0 0	       | 0	 | 
+| 0 0 1 	     | 1	 |
+| 0 1 0        | 0   |
+| 0 1 1        | 0	 |
+| 1 0 0	       | 0	 |
+| 1 0 1        | 0	 |
+| 1 1 0	       | 1   |
+| 1 1 1        | 0   |
+
+### Expression for O
+O = ABC' + A'B'C
+
 ## Parts Used:
 ### 3: DIP Switch
 ### 2: 74283 4-bit full adder
