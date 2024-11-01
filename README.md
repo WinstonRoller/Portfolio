@@ -4,4 +4,4 @@
 ## Circuit 2: 8-Bit Adder-Subtracter
 ## Circuit 3: Lock Circuit
 ## Circuit 4: Flip-Flop Counter
-## Circuit 5: Duel Bidirection Shift Registor
+## Circuit 5: Duel Bidirectional Shift Registor
