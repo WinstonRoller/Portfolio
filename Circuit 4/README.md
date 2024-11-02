@@ -1,4 +1,4 @@
-# Circuit 4: Flip-Flop Counter
+# Circuit 4: Encoder Counter
 ## Concept:
 
 ## How it works:
