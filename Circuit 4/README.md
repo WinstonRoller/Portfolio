@@ -10,7 +10,8 @@ Each flip-flop represents a number (1-15). Each flip-flip goes to a correspondin
 ### Schematic
 
 ## Parts Used:
-15 - D Flip-Flop
-1 - Encoder
+#### 15 - D Flip-Flop
+#### 1 - Encoder
+#### 2 - Push Button
 ***
 ### Simulation: [Circuitverse](https://circuitverse.org/users/266288/projects/encoder-counter)
