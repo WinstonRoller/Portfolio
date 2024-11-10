@@ -9,7 +9,11 @@ The DIP switch is used to enter the code into. The code entered will go into a d
 ![Circuit 3 Simulation](Circuit_3_Simulation.png)
 ### Schematic
 ![Circuit 3 Schematic](Circuit_3_Schematic.jpg)
+
 ## Parts Used:
+#### 8: 7474 Dual D Flip-Flops
+#### 4: 7408 QUAD AND Gate
+#### 1: 74154 4-16 Decoder
 
 ***
 ### Simulation: [Circuitverse](https://circuitverse.org/simulator/edit/lock-circuit-9322b070-b124-4427-a766-c93bc677ccae)
