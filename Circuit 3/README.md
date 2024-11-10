@@ -8,7 +8,7 @@ The DIP switch is used to enter the code into. The code entered will go into a d
 ### Simulation
 ![Circuit 3 Simulation](Circuit_3_Simulation.png)
 ### Schematic
-
+![Circuit 3 Schematic](Circuit_3_Schematic.jpg)
 ## Parts Used:
 
 ***
