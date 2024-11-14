@@ -13,7 +13,7 @@ Once the final answer is chosen by clicking the Submit button (the top one), a s
 ![Circuit 3 Schematic](Circuit_3_Schematic.jpg)
 ### Turn & Answer Block Diagram
 ![Circuit 3 Block Diagram](Circuit_3_block_diagram.png)
-
+#### If the answer is right the flip-flop will become one and the LED will turn on.
 
 
 ## Parts Used:
