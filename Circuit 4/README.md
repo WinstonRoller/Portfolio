@@ -1,8 +1,8 @@
-# Circuit 4: Encoder Counter
+# Circuit 4: Sequential Adder/Subtracter
 ## Concept:
-On my Lock Circuit I realized you could increment flip-flops. So I thought about ways I could create a counter with it.
+An Adder/Subtracter that lets you keep adding and subtracting. Now instead of only 2 numbers you can add or subtract as many as you like.
 ## How it works:
-Each flip-flop represents a number (1-15). Each flip-flip goes to a corresponding input pin on the encoder. The first flip-flop goes to the first pin, the second flip-flop to the second. The encoder converts the it to a 4-bit BCD value that will go to 4 LEDs that show to number. The flip-flops increment by using the output value of the previous flip-flop for the D value. So D=1 when Q=1 of the previous flip-flop. You reset the counter by clicking the reset button, which clears all the flip-flops.
+It works like a typical adder subtracter circuit, instead instead of 2 switches that determine the numbers being added, its 1 switch and a set of flip-flops. You enter one number in the switchs. Then you click the submit button. This will be the number you will add/subtract from. The second number you enter will be added on or subtracted from your first number. Once you hit submit, the answer of those 2 numbers will be loaded into the flip-flop, and you can keep adding/subtracting forever. The circuit will warn you of overflow if the number you want to add or subtract from will result overflow if you submit. The Flip-Flops D value is controlled by the Sum of the corresponding adder bit.
 
 ## Images
 ### Simulation
@@ -14,4 +14,4 @@ Each flip-flop represents a number (1-15). Each flip-flip goes to a correspondin
 #### 1 - Encoder
 #### 2 - Push Button
 ***
-### Simulation: [Circuitverse](https://circuitverse.org/users/266288/projects/encoder-counter)
+### Simulation: [Circuitverse](https://circuitverse.org/users/266288/projects/sequential-adder-6b3885f1-8d23-4b58-8af6-ee33cb3daf25)
