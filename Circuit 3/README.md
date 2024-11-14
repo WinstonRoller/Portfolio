@@ -11,6 +11,10 @@ Once the final answer is chosen by clicking the Submit button (the top one), a s
 ![Circuit 3 Simulation](Circuit_3_Simulation.png)
 ### Schematic
 ![Circuit 3 Schematic](Circuit_3_Schematic.jpg)
+### Turn & Answer Block Diagram
+![Circuit 3 Block Diagram](Circuit_3_block_diagram.png)
+
+
 
 ## Parts Used:
 #### 8: 7474 Dual D Flip-Flops
