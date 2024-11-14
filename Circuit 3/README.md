@@ -17,20 +17,33 @@ Once the final answer is chosen by clicking the Submit button (the top one), a s
 
 ## Expressions
 ### Expression for Turn Flip-Flops
+
 D<sub>TA</sub> = 1
+
 D<sub>TB</sub> = Q<sub>TA</sub>
+
 D<sub>TC</sub> = Q<sub>TB</sub>
+
 D<sub>TD</sub> = Q<sub>TC</sub>
 
-###Expressions for Answer Check Flip-Flops
+### Expressions for Answer Check Flip-Flops
+
 D<sub>AA</sub> = A<sub>1</sub>Q'<sub>TA</sub>
+
 D<sub>AB</sub> = A<sub>2</sub>Q'<sub>TB</sub>Q<sub>TA</sub>
+
 D<sub>AC</sub> = A<sub>3</sub>Q'<sub>TC</sub>Q<sub>TB</sub>
+
 D<sub>AD</sub> = A<sub>4</sub>Q'<sub>TD</sub>Q<sub>TC</sub>
 
+
+
 CLK<sub>A</sub> = Q'<sub>AA</sub>CLK
+
 CLK<sub>B</sub> = Q'<sub>AB</sub>CLK
+
 CLK<sub>C</sub> = Q'<sub>AC</sub>CLK
+
 CLK<sub>D</sub> = Q'<sub>AD</sub>CLK
 
 ## Parts Used:
