@@ -9,6 +9,9 @@ There are 2 buttons, one does the left movement and one does the right movement.
 ### Schematic
 ![Circuit 5 Schematic](Circuit_5_Schematic.jpg)
 ### On The Breadboard
+![Image 1](Circuit_5_img_1.jpg)
+![Image 2](Circuit_5_img_2.jpg)
+![Image 3](Circuit_5_img_3.jpg)
 ### Video Demonstration: https://www.youtube.com/watch?v=Nvhwvm_-pvM
 
 ## Expressions
