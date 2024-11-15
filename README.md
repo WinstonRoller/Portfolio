@@ -4,4 +4,4 @@
 ## Circuit 2: 8-Bit Adder-Subtracter
 ## Circuit 3: Lock Circuit
 ## Circuit 4: Sequential Adder
-## Circuit 5: Looping Shift Register with Point System
+## Circuit 5: Looping Shift Register & Point System
