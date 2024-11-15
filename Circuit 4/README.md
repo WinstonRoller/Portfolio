@@ -16,6 +16,14 @@ It works like a typical adder subtracter circuit, instead instead of 2 switches 
 ### Schematic
 ![Circuit 4 Schematic](Circuit_4_Schematic.jpg)
 
+## Expressions
+##### Since this is based off of Circuit 2, im not going to repeat expressions and tables
+### Flip-Flop Expressions
+#### D<sub>x</sub> = ∑<sub>x</sub>
+##### Each Flip-Flop's D value is equal to the corresponding Sum
+
+#### A<sub>x</sub> = Q<sub>x</sub>
+##### Each A value on the adders is equal to the corresponding Flip-Flop Output
 
 ## Parts Used:
 ### 8 - D Flip-Flop
