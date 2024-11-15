@@ -15,12 +15,19 @@ There are 2 buttons, one does the left movement and one does the right movement.
 #### S<sub>0</sub> = L + Ld
 #### CLK = R + L
 
+##### R = Shift Right Button
+##### L = Shift Left Button
+##### Ld = Load Switch
+
 ### LED Expressions
 #### LED<sub>1</sub> = Q<sub>A</sub> + A
 #### LED<sub>2</sub> = Q<sub>B</sub> + B
 #### LED<sub>3</sub> = Q<sub>A</sub> + C
 #### LED<sub>4</sub> = Q<sub>A</sub> + D
 #### LED<sub>point</sub> =  Q<sub>A</sub>A + Q<sub>B</sub>B + Q<sub>A</sub>C + Q<sub>A</sub>D
+
+##### Q<sub>x</sub> = Output of Register
+##### X = Output of DIP Switch
 
 ### Video Demonstration: https://www.youtube.com/watch?v=Nvhwvm_-pvM
 ## Parts Used:
