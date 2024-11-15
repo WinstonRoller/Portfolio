@@ -7,7 +7,10 @@ It works like a typical adder subtracter circuit, instead instead of 2 switches 
 ## Images
 ### Simulation
 ![Circuit 4 Simulation](Circuit_4_Simulation.png)
+![Circuit 4 Simulation: Overflow](Overflow_Logic.png)
+![Circuit 4 Simulation: 2's Compliment](2s_Compliement.png)
 ### Schematic
+![Circuit 4 Schematic](Circuit_4_Schematic.png)
 
 ## Parts Used:
 #### 8 - D Flip-Flop
