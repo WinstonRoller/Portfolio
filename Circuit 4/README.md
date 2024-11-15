@@ -11,10 +11,11 @@ It works like a typical adder subtracter circuit, instead instead of 2 switches 
 ![Circuit 4 Simulation: Overflow](Overflow_Logic.png)
 #### 2's Compliment
 ![Circuit 4 Simulation: 2's Compliment](2s_Compliment.png)
-### Schematic
-![Circuit 4 Schematic](Circuit_4_Schematic.png)
-
 ##### Dark Mode makes labeling hard to see. On simulation you can see labels
+
+### Schematic
+![Circuit 4 Schematic](Circuit_4_Schematic.jpg)
+
 
 ## Parts Used:
 #### 8 - D Flip-Flop
