@@ -18,9 +18,14 @@ It works like a typical adder subtracter circuit, instead instead of 2 switches 
 
 
 ## Parts Used:
-#### 8 - D Flip-Flop
-#### 2 - Full Adder
-#### 2 - Push Button
-#### 1 - DIP Switch
+### 8 - D Flip-Flop
+### 2 - Push Button
+### 2 - DIP Switch
+### 2: 74283 4-bit full adder
+### 2: QUAD XOR gate
+### 8: Red LED
+### 1: Quad OR gate
+### 1: Quad AND gate
+### 1: Hex Inverter
 ***
 ### Simulation: [Circuitverse](https://circuitverse.org/users/266288/projects/sequential-adder-6b3885f1-8d23-4b58-8af6-ee33cb3daf25)
