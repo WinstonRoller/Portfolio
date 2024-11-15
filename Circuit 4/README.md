@@ -17,7 +17,7 @@ It works like a typical adder subtracter circuit, instead instead of 2 switches 
 ![Circuit 4 Schematic](Circuit_4_Schematic.jpg)
 
 ## Expressions
-##### Since this is based off of Circuit 2, im not going to repeat expressions and tables
+##### Since this is based off of Circuit 2, im not going to repeat expressions and tables that are already there
 ### Flip-Flop Expressions
 #### D<sub>x</sub> = ∑<sub>x</sub>
 ##### Each Flip-Flop's D value is equal to the corresponding Sum
