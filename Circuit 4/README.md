@@ -14,6 +14,8 @@ It works like a typical adder subtracter circuit, instead instead of 2 switches 
 ### Schematic
 ![Circuit 4 Schematic](Circuit_4_Schematic.png)
 
+##### Dark Mode makes labeling hard to see. On simulation you can see labels
+
 ## Parts Used:
 #### 8 - D Flip-Flop
 #### 2 - Full Adder
