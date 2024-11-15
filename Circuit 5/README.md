@@ -8,6 +8,8 @@ There are 2 buttons, one does the left movement and one does the right movement.
 ## Images
 ### Schematic
 ![Circuit 5 Schematic](Circuit_5_Schematic.jpg)
+### On The Breadboard
+### Video Demonstration: https://www.youtube.com/watch?v=Nvhwvm_-pvM
 
 ## Expressions
 ### Register Expressions
@@ -29,7 +31,6 @@ There are 2 buttons, one does the left movement and one does the right movement.
 ##### Q<sub>x</sub> = Output of Register
 ##### X = Output of DIP Switch
 
-### Video Demonstration: https://www.youtube.com/watch?v=Nvhwvm_-pvM
 ## Parts Used:
 #### 1: 74194 Universal Bidirection Shift Register
 #### 2: Push Buttons
