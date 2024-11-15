@@ -9,6 +9,19 @@ There are 2 buttons, one does the left movement and one does the right movement.
 ### Schematic
 ![Circuit 5 Schematic](Circuit_5_Schematic.jpg)
 
+## Expressions
+### Register Expressions
+#### S<sub>1</sub> = R + Ld
+#### S<sub>0</sub> = L + Ld
+#### CLK = R + L
+
+### LED Expressions
+#### LED<sub>1</sub> = Q<sub>A</sub> + A
+#### LED<sub>2</sub> = Q<sub>B</sub> + B
+#### LED<sub>3</sub> = Q<sub>A</sub> + C
+#### LED<sub>4</sub> = Q<sub>A</sub> + D
+#### LED<sub>point</sub> =  Q<sub>A</sub>A + Q<sub>B</sub>B + Q<sub>A</sub>C + Q<sub>A</sub>D
+
 ### Video Demonstration: https://www.youtube.com/watch?v=Nvhwvm_-pvM
 ## Parts Used:
 #### 1: 74194 Universal Bidirection Shift Register
