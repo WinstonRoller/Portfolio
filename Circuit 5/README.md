@@ -7,7 +7,7 @@ There are 2 buttons, one does the left movement and one does the right movement.
 
 ## Images
 ### Schematic
-![Circuit 5 Schematic](Circuit_5_Schematic.png)
+![Circuit 5 Schematic](Circuit_5_Schematic.jpg)
 
 ### Video Demonstration: https://www.youtube.com/watch?v=Nvhwvm_-pvM
 ## Parts Used:
