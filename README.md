@@ -5,4 +5,4 @@
 ## Circuit 3: Lock Circuit
 ## Circuit 4: Sequential Adder
 ## Circuit 5: Looping Shift Register & Point System
-## Circuit 6: Pellet Componant
+## Circuit 6: Pellet Component
