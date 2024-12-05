@@ -18,27 +18,19 @@ There are 3 buttons. 2 are for the players and 1 is to reset the counters. Each 
 #### LED<sub>P1</sub> = (A<sub>P1</sub>B<sub>P1</sub>'C<sub>P1</sub>'D<sub>P1</sub>)
 #### LED<sub>P2</sub> = (A<sub>P2</sub>B<sub>P2</sub>'C<sub>P2</sub>'D<sub>P2</sub>)
 
-##### R = Shift Right Button
-##### L = Shift Left Button
-##### Ld = Load Switch
-
-### LED Expressions
-#### LED<sub>1</sub> = Q<sub>A</sub> + A
-#### LED<sub>2</sub> = Q<sub>B</sub> + B
-#### LED<sub>3</sub> = Q<sub>A</sub> + C
-#### LED<sub>4</sub> = Q<sub>A</sub> + D
-#### LED<sub>point</sub> =  Q<sub>A</sub>A + Q<sub>B</sub>B + Q<sub>A</sub>C + Q<sub>A</sub>D
-
-##### Q<sub>x</sub> = Output of Register
-##### X = Output of DIP Switch
+##### A<sub>P1</sub> = MSB from Player 1's counter
+##### D<sub>P1</sub> = LSB from Player 1's counter
+##### A<sub>P2</sub> = MSB from Player 2's counter
+##### D<sub>P2</sub> = LSB from Player 2's counter
 
 ## Parts Used:
-#### 1: 74194 Universal Bidirection Shift Register
-#### 2: Push Buttons
+#### 4: 7474 Dual D Flip Flops
+#### 3: Push Buttons
 #### 1: 7414 Schmitt Inverter
-#### 2: 7404 Hex Inverter
-#### 3: 7432 OR Gate
-#### 1: 7408 AND Gate
+#### 1: 7404 Hex Inverter
+#### 2: 7448 7 Segment Decoders
+#### 2: 7 Segment Displays
+#### 3: 7408 AND Gate
 ***
 
 
