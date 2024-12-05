@@ -7,7 +7,7 @@ There are 3 buttons. 2 are for the players and 1 is to reset the counters. Each 
 
 ## Images
 ### Schematic
-![Circuit 5 Schematic](Circuit_8_Schematic.jpg)
+![Circuit 8 Schematic](Circuit_8_Schematic.jpg)
 
 ## Expressions
 ### Clock Expression
