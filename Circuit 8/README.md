@@ -18,8 +18,8 @@ There are 3 buttons. 2 are for the players and 1 is to reset the counters. Each 
 #### LED<sub>P1</sub> = (A<sub>P1</sub>B<sub>P1</sub>'C<sub>P1</sub>'D<sub>P1</sub>)
 #### LED<sub>P2</sub> = (A<sub>P2</sub>B<sub>P2</sub>'C<sub>P2</sub>'D<sub>P2</sub>)
 
-
-
+##### P1 = Player 1's Button
+##### P2 = Player 2's Button
 ##### A<sub>P1</sub> = MSB from Player 1's counter
 ##### D<sub>P1</sub> = LSB from Player 1's counter
 ##### A<sub>P2</sub> = MSB from Player 2's counter
