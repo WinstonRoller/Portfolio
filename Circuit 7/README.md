@@ -7,7 +7,7 @@
 
 ## Images
 ### Schematic
-![Circuit 5 Schematic](Circuit_7_Schematic.jpg)
+![Circuit 7 Schematic](Circuit_7_Schematic.jpg)
 
 ## Expressions
 ### Clock Expression
