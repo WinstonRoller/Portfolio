@@ -1,4 +1,4 @@
-# Circuit 5: Looping Shift Register & Point System
+# Circuit 8: Clicker Game
 ## Concept:
 A 2-player game, there is a button for each player on either side of the board. Each player clicks the button as fast as they can until the number displayed reaches 9. Once it reaches that point the game freezes, and an LED will light up on the side of whoever one.
 
