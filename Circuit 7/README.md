@@ -15,7 +15,7 @@ There are 4 states for the Mealy Machine. The first is the reset state. Once you
 ### State Diagram
 ![Circuit 7 Simulation](Circuit_7_Diagram.drawio.png)
 
-### State Table
+### Mealy State Table
 ![Circuit 7 State Table](Circuit_7_State_Table.jpg)
 
 ## Expressions
