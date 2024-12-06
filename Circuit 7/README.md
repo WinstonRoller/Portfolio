@@ -26,6 +26,5 @@
 #### 2: 7 Segment Displays
 #### 3: 7408 AND Gate
 ***
-
-
+Simulation: [Circuitverse](https://circuitverse.org/users/266288/projects/finite-state-lock-circuit)
 
