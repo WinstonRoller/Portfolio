@@ -11,7 +11,7 @@ After learning about finite state machines, I realized it would be a good fit fo
 ![Circuit 7 Simulation](Circuit_7_Simulation.png)
 
 ### State Diagram
-![Circuit 7 Simulation](Circuit_7_Diagram.png)
+![Circuit 7 Simulation](Circuit_7_Diagram.drawio.png)
 
 ## Parts Used:
 #### 4: 7474 Dual D Flip Flops
