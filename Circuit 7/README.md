@@ -8,6 +8,7 @@
 ## Images
 ### Schematic
 ![Circuit 7 Schematic](Circuit_7_Schematic.jpg)
+![Circuit 7 Simulation](Circuit_7_Simulation.png)
 
 ## Expressions
 ### Clock Expression
