@@ -36,5 +36,5 @@ There are 3 buttons. 2 are for the players and 1 is to reset the counters. Each 
 #### 2: 7 Segment Displays
 #### 3: 7408 AND Gate
 ***
-
+### Simulation: [Circuitverse](https://circuitverse.org/simulator/edit/clicker-game-6063e9f3-109b-4f02-9795-a4136be550ad)
 
