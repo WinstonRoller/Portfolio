@@ -31,7 +31,7 @@ K<sub>2</sub> =  1
 Z<sub>1</sub>  =  A'B'C D Q1 Q2 
 
 ### Moore Machine
-D = Z<sub>2</sub>
+D = Z<sub>1</sub>
 
 Z<sub>2</sub> = Q<sub>3</sub>
 
