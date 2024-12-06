@@ -11,11 +11,6 @@
 ![Circuit 7 Simulation](Circuit_7_Simulation.png)
 
 ## Expressions
-### Clock Expression
-
-
-### Terms
-
 
 ## Parts Used:
 #### 4: 7474 Dual D Flip Flops
@@ -26,5 +21,5 @@
 #### 2: 7 Segment Displays
 #### 3: 7408 AND Gate
 ***
-Simulation: [Circuitverse](https://circuitverse.org/users/266288/projects/finite-state-lock-circuit)
+### Simulation: [Circuitverse](https://circuitverse.org/users/266288/projects/finite-state-lock-circuit)
 
