@@ -28,10 +28,15 @@ J<sub>2</sub> =  A B C D'Q<sub>1</sub>' + A B'C'D Q<sub>1</sub>
 
 K<sub>2</sub> =  1
 
-Z  =  A'B'C D Q1 Q2 
+Z<sub>1</sub>  =  A'B'C D Q1 Q2 
 
 ### Moore Machine
-D = Z
+D = Z<sub>2</sub>
+
+Z<sub>2</sub> = Q<sub>3</sub>
+
+### LED Expression
+LED = Z<sub>2</sub> 
 
 ## Parts Used:
 #### 4: 7474 Dual D Flip Flops
