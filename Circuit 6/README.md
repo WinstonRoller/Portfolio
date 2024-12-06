@@ -1,6 +1,6 @@
 # Circuit 8: Clicker Game
 ## Concept:
-
+A Syncronous Counter that goes through 0-9 out order.  
 
 ## How it works:
 
