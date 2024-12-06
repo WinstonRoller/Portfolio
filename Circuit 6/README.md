@@ -1,4 +1,4 @@
-# Circuit 8: Clicker Game
+# Circuit 6: EPROM Counter & 7-Segment Decoder
 ## Concept:
 A Syncronous Counter that goes through 0-9 out-of-order. Typically, this would require lots of simplification of expression, picking which flip-flop you want to use, and lots of AND and OR gates. However, using EPROM you can skip all that only while using 1 chip. It requires no expression, makes using a D flip-flop the obvious choice, and requires 0 external logic gates. The EPROM will also decode the number on the counter for a 7-segment display, so I can skip using a 7-segment decoder.     
 
