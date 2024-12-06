@@ -10,7 +10,8 @@ After learning about finite state machines, I realized it would be a good fit fo
 ![Circuit 7 Schematic](Circuit_7_Schematic.jpg)
 ![Circuit 7 Simulation](Circuit_7_Simulation.png)
 
-## Expressions
+### State Diagram
+![Circuit 7 Simulation](Circuit_7_Diagram.png)
 
 ## Parts Used:
 #### 4: 7474 Dual D Flip Flops
