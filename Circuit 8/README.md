@@ -8,6 +8,7 @@ There are 3 buttons. 2 are for the players and 1 is to reset the counters. Each 
 ## Images
 ### Schematic
 ![Circuit 8 Schematic](Circuit_8_Schematic.jpg)
+![Circuit 8 Simulation](Circuit_8_Simulation.png)
 
 ## Expressions
 ### Clock Expression
