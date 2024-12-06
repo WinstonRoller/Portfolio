@@ -18,6 +18,21 @@ There are 4 states for the Mealy Machine. The first is the reset state. Once you
 ### State Table
 ![Circuit 7 State Table](Circuit_7_State_Table.jpg)
 
+## Expressions
+### Mealy Machine
+J<sub>1</sub> =  A'B C'D Q<sub>2</sub>
+
+K<sub>1</sub> =  A' + D' + C + B + Q<sub>2</sub>
+
+J<sub>2</sub> =  A B C D'Q<sub>1</sub>' + A B'C'D Q<sub>1</sub>
+
+K<sub>2</sub> =  1
+
+Z  =  A'B'C D Q1 Q2 
+
+### Moore Machine
+D = Z
+
 ## Parts Used:
 #### 4: 7474 Dual D Flip Flops
 #### 3: Push Buttons
