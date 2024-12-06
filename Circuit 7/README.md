@@ -1,6 +1,6 @@
 # Circuit 7: Finite State Lock Circuit
 ## Concept:
-
+After learning about finite state machines, I realized it would be a good fit for my previous lock circuit and wanted to reiterate on it. It is a combination of both a Mealy and Moore machine. The reason for the Mealy machine is because if I had used only a Moore it would have required 3 variable assignments, but an issue with the moore machine is that the last code entered would "unlock" the circuit without hitting the submit button
 
 ## How it works:
 
