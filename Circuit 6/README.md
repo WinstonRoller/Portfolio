@@ -5,7 +5,7 @@ A Syncronous Counter that goes through 0-9 out-of-order. Typically, this would r
 ## How it works:
 A debounced push-button serves as the clock for the counter. The D values for each flop-flop come from the EPROM. The LSB of the EPROM for the LSB of the counter. The least significant digit of the HEX is used for the counters. The next 2 digits are used for the 7-segment display. The MSB of those 2 is used for a-b-c-d, and the LSB of those 2 is used for e-f-g-0. Since there are only 7-segments, I left that last bit as a 0 for all values. Since I only need 3 digits of HEX I left the MSB as a 0, although I could have left it as anything as it isn't used at all. The only inputs of the EPROM are the outputs of the flip-flop's, so there are 4 inputs and 11 outputs. 
 
-Since it goes through 0-9, I initially only programmed the EPROM up to 9, but when I turned on the circuit the flip-flops started with all 1's. Instead of having a button to clear, I wanted to do as much with the EPROM as I could and programmed the it so that if any unplanned number (10-15) was loaded into the counter it would reset to 0 on the next clock.
+Since it goes through 0-9, I initially only programmed the EPROM up to 9, but when I turned on the circuit the flip-flops started with all 1's. Instead of having a button to clear, I wanted to do as much with the EPROM as I could and programmed it so that if any unplanned number (10-15) was loaded into the counter it would reset to 0 on the next clock.
 
 Something that was unplanned for was the Common Anode 7-segment, which required me to invert the EPROM's output to the 7 segment. If I could reprogram it, it wouldn't have been necessary to use an inverter.
 
