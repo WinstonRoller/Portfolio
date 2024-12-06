@@ -31,12 +31,6 @@ Since it goes through 0-9, I initally only programmed the EPROM up to 9, but whe
 | 0000000000001110 | 0000 |
 | 0000000000001111 | 0000 |
 
-
-### LED Expression
-
-
-### Terms
-
 ## Parts Used:
 #### 2: 7474 Dual D Flip Flops
 #### 1: Push Buttons
