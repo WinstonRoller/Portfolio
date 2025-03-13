@@ -1,8 +1,8 @@
 # Circuit 2: 8-bit Adder-Subtracter 
 ## Concept:
-There are 2 switches, 1 for each number. There is also a switch for the mode. When the switch is off, it adds the 2 numbers, and when it is on it subtracts B from A. 
+There are 2 switches, 1 for each number. There is also a mode select switch to select between addition or subtraction. When the switch is off, it adds the 2 numbers, and when it is on it subtracts. 
 ## How it works:
-The first switch, Switch A, sends each bit to an adder. The first switch on Switch A is the most significant bit, and the 8th switch is the least significant bit. Switch B however first goes into an XOR gate. Each bit is XORed with the output of the mode switch. If it’s subtracted the bits will be inverted, and the mode switch sends a bit through the carry-in on the adder, making the value 2’s compliment. If it is adding the number will not be inverted. There are 2 adders, the first one handles the 4 least significant bits, and the second one handles the most significant bits. Once the number is added or subtracted, each bit goes to an LED and it will light up if it gets sent a 1. 
+This circuit adds or subtracts number B (bottom switch) from A (top switch). Each bit from number B is XORed with the output of the mode select. Off = Add, On = Subtract. If it’s subtracted the bits will be inverted, and the mode switch sends a bit through the carry-in on the adder, making the value negative. There are 2 adders, the first one handles the 4 least significant bits, and the second one handles the most significant bits. If an overflow occurs, then the blue LED will light up.
 
 ## Images
 ### Schematic
