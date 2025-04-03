@@ -14,7 +14,7 @@ For the game to start both players need to have the last switch on the DIP switc
 ## Video Demonstration: https://www.youtube.com/watch?v=7WhWaa4iMa8
 
 ## Output Enable truth table:		  
-| A B |	P (Power) |	 
+| A<sub>5</sub> B<sub>5</sub> |	P (Power) |	 
 | :-: | :-------: |
 | 0 0 |	0		      |               
 | 0 1 |	0		      |               
@@ -22,25 +22,46 @@ For the game to start both players need to have the last switch on the DIP switc
 | 1 1 |	1		      |
 
 ### Expression for P:
-OE = A
+OE = A<sub>5</sub>B<sub>5</sub>
 
 ## Red LED truth table
-| A B	| R (Red LED) | 
-| :-: | :---------: |
-| 0 0	| 0           |
-| 0 1	| 1           |
-| 1 0	| 1           |
-| 1 1	| 1           |
+| OE A>B	| R | 
+| :-: | :---: |
+| 0 0	| 0     |
+| 0 1	| 0     |
+| 1 0	| 0     |
+| 1 1	| 1     |
 
 ### Expression for R:
-R = A + B 
+R = OE AND A>B 
+
+## Green LED truth table
+| OE A=B	| G | 
+| :-: | :---: |
+| 0 0	| 0     |
+| 0 1	| 0     |
+| 1 0	| 0     |
+| 1 1	| 1     |
+
+### Expression for G:
+G = OE AND A=B 
+
+## Blue LED truth table
+| OE A<B	| Bl | 
+| :-: | :---: |
+| 0 0	| 0     |
+| 0 1	| 0     |
+| 1 0	| 0     |
+| 1 1	| 1     |
+
+### Expression for B:
+Bl = OE AND A<B
 
 ## Parts Used:
 #### 2: 8 Switch DIP Switch
-#### 1: 7432 Quad OR gate
 #### 1: 7485 4-bit Magnitude Comparator
 #### 1: 7408 Quad AND gate
-#### 12: 220 Ohm Resistors
+#### 13: 220 Ohm Resistors
 #### 1: RGB LED
 
 
