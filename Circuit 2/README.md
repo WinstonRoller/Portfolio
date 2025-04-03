@@ -59,7 +59,7 @@ B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I
 O = A<sub>4</sub>B<sub>F4</sub>∑<sub>4</sub>' + A<sub>4</sub>'B<sub>F4</sub>'∑<sub>4</sub>
 
 ###### A<sub>4</sub> = MSB of A
-###### B<sub>4</sub> = MSB of B
+###### B<sub>F4</sub> = MSB of B final
 ###### ∑<sub>4</sub> = MSB of Sum
 
 ## Parts Used:
