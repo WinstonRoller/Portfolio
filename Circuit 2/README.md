@@ -37,11 +37,11 @@ C<sub>out</sub> = A * B<sub>F</sub>
 | 1 0   | 1    |
 | 1 1   | 0    |
 
-###### B<sub>I</sub> = B initial
-###### B<sub>F</sub> = B final
-
 #### Expression for B<sub>F</sub>: 
 B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I</sub> XOR M
+
+###### B<sub>I</sub> = B initial
+###### B<sub>F</sub> = B final
 
 ### Table for Overflow:	
 | A<sub>4</sub> B<sub>F4</sub> ∑<sub>4</sub> | O |
