@@ -13,7 +13,8 @@ For the game to start both players need to have the last switch on the DIP switc
 
 ## Video Demonstration: https://www.youtube.com/watch?v=7WhWaa4iMa8
 
-## Output Enable truth table:		  
+##Truth Tables
+### Output Enable truth table:		  
 | A<sub>5</sub> B<sub>5</sub> |	P (Power) |	 
 | :-: | :-------: |
 | 0 0 |	0		      |               
@@ -21,10 +22,10 @@ For the game to start both players need to have the last switch on the DIP switc
 | 1 0 |	0		      |              
 | 1 1 |	1		      |
 
-### Expression for P:
+#### Expression for P:
 OE = A<sub>5</sub>B<sub>5</sub>
 
-## Red LED truth table
+### Red LED truth table
 | OE A>B	| R | 
 | :-: | :---: |
 | 0 0	| 0     |
@@ -32,10 +33,10 @@ OE = A<sub>5</sub>B<sub>5</sub>
 | 1 0	| 0     |
 | 1 1	| 1     |
 
-### Expression for R:
+#### Expression for R:
 R = OE AND A>B 
 
-## Green LED truth table
+### Green LED truth table
 | OE A=B	| G | 
 | :-: | :---: |
 | 0 0	| 0     |
@@ -43,10 +44,10 @@ R = OE AND A>B
 | 1 0	| 0     |
 | 1 1	| 1     |
 
-### Expression for G:
+#### Expression for G:
 G = OE AND A=B 
 
-## Blue LED truth table
+### Blue LED truth table
 | OE A<B	| Bl | 
 | :-: | :---: |
 | 0 0	| 0     |
@@ -54,7 +55,7 @@ G = OE AND A=B
 | 1 0	| 0     |
 | 1 1	| 1     |
 
-### Expression for B:
+#### Expression for B:
 Bl = OE AND A<B
 
 ## Parts Used:
