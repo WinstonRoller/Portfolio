@@ -8,7 +8,8 @@ This circuit adds or subtracts number B (bottom switch) from A (top switch). Eac
 ### Schematic
 ![Circuit 2 Schematic](Circuit_2_Schematic.png)
 
-## Table for Addition:		
+## Truth Tables & Expressions
+### Table for Addition:		
 | A B<sub>F</sub> C<sub>in</sub> | ∑   | C<sub>out</sub> |	
 | :----------: | :-: | :----: |
 | 0 0 0	       | 0	 | 0      | 
@@ -20,13 +21,13 @@ This circuit adds or subtracts number B (bottom switch) from A (top switch). Eac
 | 1 1 0	       | 0   | 1      |
 | 1 1 1        | 1   | 1      |
 
-### Expression for ∑ of each bit:
+#### Expression for ∑ of each bit:
 ∑ = AB<sub>F</sub>’ + A’B<sub>F</sub> or ∑ = A XOR B<sub>F</sub>
 
-### Expression for Cout:
+#### Expression for Cout:
 C<sub>out</sub> = A * B<sub>F</sub>
 
-## Table for XOR’s (Inverting the numbers)
+### Table for XOR’s (Inverting the numbers)
 |B<sub>I</sub> M |	B<sub>F</sub> |
 | :---: | :--: |
 | 0	0   | 0    |
@@ -34,10 +35,13 @@ C<sub>out</sub> = A * B<sub>F</sub>
 | 1 0   | 1    |
 | 1 1   | 0    |
 
-### Expression for B<sub>F</sub>: 
+##### B<sub>I</sub> = B initial
+##### B<sub>F</sub> = B final
+
+#### Expression for B<sub>F</sub>: 
 B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I</sub> XOR M
 
-## Table for Overflow:	
+### Table for Overflow:	
 | A<sub>4</sub> B<sub>F4</sub> ∑<sub>4</sub> | O |
 | :----------: | :-: |
 | 0 0 0	       | 0	 | 
@@ -49,8 +53,12 @@ B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I
 | 1 1 0	       | 1   |
 | 1 1 1        | 0   |
 
-### Expression for O
+#### Expression for O
 O = A<sub>4</sub>B<sub>F4</sub>∑<sub>4</sub>' + A<sub>4</sub>'B<sub>F4</sub>'∑<sub>4</sub>
+
+##### A<sub>4</sub> = MSB of A
+##### B<sub>4</sub> = MSB of B
+##### ∑<sub>4</sub> = MSB of Sum
 
 ## Parts Used:
 ### 3: DIP Switch
