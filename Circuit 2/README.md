@@ -27,6 +27,8 @@ This circuit adds or subtracts number B (bottom switch) from A (top switch). Eac
 #### Expression for Cout:
 C<sub>out</sub> = A * B<sub>F</sub>
 
+###### B<sub>F</sub> = B final
+
 ### Table for XOR’s (Inverting the numbers)
 |B<sub>I</sub> M |	B<sub>F</sub> |
 | :---: | :--: |
@@ -35,8 +37,8 @@ C<sub>out</sub> = A * B<sub>F</sub>
 | 1 0   | 1    |
 | 1 1   | 0    |
 
-##### B<sub>I</sub> = B initial
-##### B<sub>F</sub> = B final
+###### B<sub>I</sub> = B initial
+###### B<sub>F</sub> = B final
 
 #### Expression for B<sub>F</sub>: 
 B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I</sub> XOR M
@@ -56,9 +58,9 @@ B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I
 #### Expression for O
 O = A<sub>4</sub>B<sub>F4</sub>∑<sub>4</sub>' + A<sub>4</sub>'B<sub>F4</sub>'∑<sub>4</sub>
 
-##### A<sub>4</sub> = MSB of A
-##### B<sub>4</sub> = MSB of B
-##### ∑<sub>4</sub> = MSB of Sum
+###### A<sub>4</sub> = MSB of A
+###### B<sub>4</sub> = MSB of B
+###### ∑<sub>4</sub> = MSB of Sum
 
 ## Parts Used:
 ### 3: DIP Switch
