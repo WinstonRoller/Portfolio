@@ -50,7 +50,7 @@ B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I
 | 1 1 1        | 0   |
 
 ### Expression for O
-O = A<sub>4</sub>B<sub>4</sub>∑<sub>4</sub>' + A<sub>4</sub>'B<sub>4</sub>'∑<sub>4</sub>
+O = A<sub>4</sub>B<sub>F4</sub>∑<sub>4</sub>' + A<sub>4</sub>'B<sub>F4</sub>'∑<sub>4</sub>
 
 ## Parts Used:
 ### 3: DIP Switch
