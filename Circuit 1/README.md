@@ -4,16 +4,15 @@ A 2-player game, there is a switch on both sides of the board one player sets a 
 ## How it works:
 For the game to start both players need to have the last switch on the DIP switch set to ON. Both go through an AND gate, and the output of that goes into the VCC pin on the comparator. Once the player who made the number and the guesser flip the last switch, it will compare the numbers. If guesser’s is greater or less than the other players number, it will turn red. This is done through an OR gate, where both the greater then and less then go into. If either is on, then it will send a signal and turn the LED red. If the numbers are equal the LED will turn green.
 
-## Images
+## Images & Videos
 ### Schematic:
 ![Circuit_1_Schematic](Circuit_1_Schematic.png)
 ### Circuit 1 on the Breadboard
 ![First Picture](Circuit_1_built_1.jpg)
 ![Second Picture](Circuit_1_built_2.jpg)
+### Video Demonstration: https://www.youtube.com/watch?v=7WhWaa4iMa8
 
-## Video Demonstration: https://www.youtube.com/watch?v=7WhWaa4iMa8
-
-##Truth Tables
+## Truth Tables
 ### Output Enable truth table:		  
 | A<sub>5</sub> B<sub>5</sub> |	P (Power) |	 
 | :-: | :-------: |
