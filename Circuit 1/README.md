@@ -13,7 +13,7 @@ For the game to start both players need to have the last switch on the DIP switc
 
 ## Video Demonstration: https://www.youtube.com/watch?v=7WhWaa4iMa8
 
-## Comparator ON truth table:		  
+## Output Enable truth table:		  
 | A B |	P (Power) |	 
 | :-: | :-------: |
 | 0 0 |	0		      |               
@@ -22,7 +22,7 @@ For the game to start both players need to have the last switch on the DIP switc
 | 1 1 |	1		      |
 
 ### Expression for P:
-P = AB
+OE = A
 
 ## Red LED truth table
 | A B	| R (Red LED) | 
