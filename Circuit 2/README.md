@@ -27,7 +27,7 @@ This circuit adds or subtracts number B (bottom switch) from A (top switch). Eac
 #### Expression for Cout:
 C<sub>out</sub> = A * B<sub>F</sub>
 
-###### B<sub>F</sub> = B final
+###### B<sub>F</sub> = B after XOR
 
 ### Table for XOR’s (Inverting the numbers)
 |B<sub>I</sub> M |	B<sub>F</sub> |
@@ -40,8 +40,8 @@ C<sub>out</sub> = A * B<sub>F</sub>
 #### Expression for B<sub>F</sub>: 
 B<sub>F</sub> = B<sub>I</sub>’M + B<sub>I</sub>M’ or B<sub>F</sub> = B<sub>I</sub> XOR M
 
-###### B<sub>I</sub> = B initial
-###### B<sub>F</sub> = B final
+###### B<sub>I</sub> = B before XOR
+###### B<sub>F</sub> = B after XOR
 
 ### Table for Overflow:	
 | A<sub>4</sub> B<sub>F4</sub> ∑<sub>4</sub> | O |
