@@ -19,7 +19,7 @@ There are 2 buttons, one does the left movement and one does the right movement.
 #### S<sub>0</sub> = L + Ld
 #### CLK = R + L + CLK<sub>EN</sub>
 #### CLK<sub>EN</sub> = (Q<sub>A</sub>R + Q<sub>D</sub>L)'
-##### I am not using a NAND gate because I didn't want to unnecessarily add another chip to the board
+###### I am not using a NAND gate because I didn't want to unnecessarily add another chip to the board
 
 ##### R = Shift Right Button
 ##### L = Shift Left Button
