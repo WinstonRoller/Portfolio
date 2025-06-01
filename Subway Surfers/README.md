@@ -8,10 +8,6 @@
 ## Images & Videos
 ### Schematic:
 
-
-### Circuit 1 on the Breadboard
-
-
 ## Truth Tables
 
 
